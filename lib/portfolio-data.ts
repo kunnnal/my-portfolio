@@ -4,9 +4,9 @@ export const profile = {
   tagline: "Building scalable systems, automating everything.",
   description:
     "I design cloud infrastructure, container platforms, and release pipelines that keep systems reliable while making delivery faster for teams.",
-  email: "kunal.devops@example.com",
-  linkedin: "https://www.linkedin.com/in/kunal-devops",
-  github: "https://github.com/kunal-devops",
+  email: "kunalbora2202@gmail.com",
+  linkedin: "www.linkedin.com/in/kunnnaaaaaal",
+  github: "https://github.com/kunnnal",
   commandStrip: [
     "terraform apply",
     "kubectl rollout status",
