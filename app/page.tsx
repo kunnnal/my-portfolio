@@ -23,7 +23,7 @@ export default function Home() {
           <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
             <p>
               {new Date().getFullYear()} {profile.name}. Built as a neon DevOps command
-              center with Next.js, GSAP, Tailwind CSS, and React Three Fiber.
+              center with Next.js, GSAP, Tailwind CSS, and a custom canvas telemetry layer.
             </p>
             <a className="text-accent transition hover:text-white" href="#top">
               Return to top

@@ -1,16 +1,9 @@
 "use client";
 
-import dynamic from "next/dynamic";
 import { useEffect, useRef } from "react";
 import { gsap } from "gsap";
+import HeroNetworkCanvas from "@/components/canvas/hero-network-canvas";
 import { profile } from "@/lib/portfolio-data";
-
-const HeroNetworkCanvas = dynamic(
-  () => import("@/components/canvas/hero-network-canvas"),
-  {
-    ssr: false
-  }
-);
 
 export function HeroSection() {
   const sectionRef = useRef<HTMLElement | null>(null);
