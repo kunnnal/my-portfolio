@@ -1,0 +1,24 @@
+Kunal
+DevOps Engineer | Cloud Engineer | Automation Builder
+
+Summary
+Designs cloud infrastructure, CI/CD pipelines, and container platforms with a focus on reliability, automation, and operational clarity.
+
+Core Skills
+- AWS: EKS, EC2, S3, RDS, VPC
+- Containers: Docker, Kubernetes
+- IaC: Terraform
+- CI/CD: GitHub Actions, Jenkins
+- Monitoring: Prometheus, Grafana
+- OS: Linux, Shell Scripting
+
+Project Highlights
+- AWS EKS Cluster Setup
+- Terraform Infrastructure Suite
+- CI/CD Pipeline Implementation
+- ECS Microservices Deployment
+
+Links
+- Email: kunal.devops@example.com
+- LinkedIn: https://www.linkedin.com/in/kunal-devops
+- GitHub: https://github.com/kunal-devops
