@@ -159,12 +159,12 @@ export const contactChannels = [
   },
   {
     label: "LinkedIn",
-    value: "linkedin.com/in/kunal-devops",
+    value: "linkedin.com/in/kunnnaaaaaal",
     href: profile.linkedin
   },
   {
     label: "GitHub",
-    value: "github.com/kunal-devops",
+    value: "github.com/kunnnal",
     href: profile.github
   }
 ];
